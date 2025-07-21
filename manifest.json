@@ -1,7 +1,7 @@
 {
     "name": "SmartFarm",
     "short_name": "SmartFarm",
-    "description": "Analyze crop health with AI using your camera.",
+    "description": "Your best AI companion for digital farming.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#355e3b",
